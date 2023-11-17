@@ -1,6 +1,6 @@
 # AI-Chatbot
 
-Setup NodeJS, npm and all node based dependencies. Get inside the code folder (downloaded source code)
+Setup NodeJS, npm and all node based dependencies. Get inside the code folder (downloaded source code) <br>
 cd chatbot 
 npm install http express socket.io openai 
 To run the chatbot app - 
