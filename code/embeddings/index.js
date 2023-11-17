@@ -11,7 +11,7 @@ const io = socketIo(server);
 app.use(express.static('public'));
 
 const openaiInstance = new OpenAI({
-  apiKey: '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'// This is also the default, can be omitted
+  apiKey: 'your api key'// This is also the default, can be omitted
 });
 
 let knowledgeBase = [];
